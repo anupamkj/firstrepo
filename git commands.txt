@@ -1,3 +1,8 @@
 git --version
 git status
 git init
+git add .
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+git commit -m "version1"
